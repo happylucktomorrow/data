@@ -26,3 +26,7 @@ https://drive.google.com/drive/folders/1VdrnHieVgx5J1-4HY_cgugJWiwFYVBZI?usp=sha
 gpt2 model
 
 https://drive.google.com/file/d/1nZxFuoskVsdRxrVB5sx6MNw3cFr7EHw6/view?usp=sharing
+
+STT
+
+https://github.com/KoljaB/RealtimeSTT
