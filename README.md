@@ -30,3 +30,7 @@ https://drive.google.com/file/d/1nZxFuoskVsdRxrVB5sx6MNw3cFr7EHw6/view?usp=shari
 STT
 
 https://github.com/KoljaB/RealtimeSTT
+
+solar tokenizer
+
+https://drive.google.com/file/d/1oR3a_XkXpo0yndj3NCT8yfE5gYg3QEVQ/view?usp=drive_link
