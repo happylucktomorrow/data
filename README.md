@@ -35,10 +35,4 @@ solar tokenizer
 
 https://drive.google.com/file/d/1oR3a_XkXpo0yndj3NCT8yfE5gYg3QEVQ/view?usp=drive_link
 
-Gemma-3-1b-it-q4.0
-
-https://drive.google.com/file/d/17kgg6xESrj3jXceDaRhyhFKEFHjiK1G1/view?usp=sharing
-
-Gemma-3-1b-pt
-
-https://drive.google.com/file/d/1wxINyQFQi7xMG7Aw0yLSuVQ46k68JiGT/view?usp=sharing
+SEE guide.txt file
