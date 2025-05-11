@@ -36,3 +36,7 @@ solar tokenizer
 https://drive.google.com/file/d/1oR3a_XkXpo0yndj3NCT8yfE5gYg3QEVQ/view?usp=drive_link
 
 SEE guide.txt file
+
+Model
+
+https://drive.google.com/file/d/1QDH9kHI3S0wWPh3rHGNw7NOWZWrTWOyD/view?usp=sharing
