@@ -40,3 +40,5 @@ SEE guide.txt file
 Model
 
 https://drive.google.com/file/d/1QDH9kHI3S0wWPh3rHGNw7NOWZWrTWOyD/view?usp=sharing
+
+https://drive.google.com/drive/folders/18XRXorcbR1bYD7bWV78q8LrE_nuUSBtV?usp=sharing
