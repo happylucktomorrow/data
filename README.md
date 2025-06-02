@@ -29,3 +29,7 @@ https://www.pluralsight.com/resources/blog/ai-and-data/ai-native-mobile-apps
 https://prompthero.com/prompt/f36383a5ac2
 
 https://drive.google.com/file/d/1puplLbQq44NBDc-c_56u7z5dKQnCqzAj/view?usp=sharing
+
+nogis
+
+https://drive.google.com/drive/folders/1G7KfvJDecNmcbGyvaV6B0cuP-hsCW0gc?usp=sharing
