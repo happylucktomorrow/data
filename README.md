@@ -1,3 +1,6 @@
-https://drive.google.com/file/d/1jd8RAF6bKReBx4zhHal3nTKVlraiPbTD/view?usp=sharing
+My Payment Service not working.
 
-https://drive.google.com/file/d/1KdE4Wxr_xVmRwkLw7IdNts8dkWu-UWEM/view?usp=sharing
+I requested to other person, will take a week to proceed. Not available this week I guess.
+
+And the app doesn't work on my virtual devices.
+"Avatar SDK Showcase" is a good app to use I think. Research on it.
