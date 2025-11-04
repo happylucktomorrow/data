@@ -5,3 +5,6 @@ model: https://drive.google.com/drive/folders/1kln-ouYpH0xBUAm4TZqUqPfsa3o82iXI?
 
 
 https://drive.google.com/file/d/1G8VFb8ZUOFp1fnNXD2MUIL-QaTtJ0Bec/view?usp=drive_link
+
+
+https://docs.google.com/document/d/1euT8IqJzRbl4QE7EY0QmQtFqAczKkgrj/edit?usp=sharing&ouid=101116975682792022243&rtpof=true&sd=true
