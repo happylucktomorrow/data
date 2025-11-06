@@ -8,3 +8,6 @@ https://drive.google.com/file/d/1G8VFb8ZUOFp1fnNXD2MUIL-QaTtJ0Bec/view?usp=drive
 
 
 https://docs.google.com/document/d/1euT8IqJzRbl4QE7EY0QmQtFqAczKkgrj/edit?usp=sharing&ouid=101116975682792022243&rtpof=true&sd=true
+
+
+torch: https://drive.google.com/file/d/1L3iheMQMMFBuW1tuNunsqloILwKDGuDr/view?usp=sharing
