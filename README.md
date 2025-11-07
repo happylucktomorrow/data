@@ -14,6 +14,8 @@ torch: https://drive.google.com/file/d/1L3iheMQMMFBuW1tuNunsqloILwKDGuDr/view?us
 
 torch-2.7.1+cu118: https://drive.google.com/file/d/1IGm1hzVf8Ac0y9c0pMnIr6_h2mDkTkuj/view?usp=sharing
 
+dll: https://drive.google.com/file/d/1N-1OCjLjdzbLc7Vq_mTr3FOTL_7TbP2_/view?usp=sharing
+
 https://drive.google.com/drive/folders/1Qo-mgtp6nV3Xj9qsNJlCdxQgxoMDQdvw?usp=sharing
 
 
