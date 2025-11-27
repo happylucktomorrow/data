@@ -1,5 +1,3 @@
-en: https://drive.google.com/file/d/17VFOQ3qYJ-uZeT_w-X00xWcZ4JXVY5o5/view?usp=sharing
-
 model: https://drive.google.com/drive/folders/1kln-ouYpH0xBUAm4TZqUqPfsa3o82iXI?usp=sharing
 
 
@@ -28,4 +26,14 @@ https://drive.google.com/file/d/1WEvUM94ufMixrZ9MnKKfcLKx8Wg5jvW-/view?usp=shari
 https://drive.google.com/file/d/1aYdO6YYvKO7mM41-uvYhA3ovMujnQmQ3/view?usp=sharing
 
 
-sales: https://drive.google.com/file/d/1ncrPkM9Ixrr6jRJVMzxeZYmAFs-wvIUe/view?usp=sharing
+
+e-commerce: https://drive.google.com/file/d/1Bv1LWTOuPXHYstUf8hN9bXdxExNMkgjJ/view?usp=sharing
+
+model-for-speech-to-text: https://drive.google.com/file/d/1bS1xFec74dDBkODjOl-v-1kWUuVktKKf/view?usp=drive_link
+
+app-speach-to-text: https://drive.google.com/file/d/1dHiOn_iKONZewF9ONXzrnpozdgz7lh5w/view?usp=sharing
+
+===Sound Wav Files===
+German: https://drive.google.com/file/d/1p4SwviKdt5387JAtb5W0VCb0jS5ytzhV/view?usp=sharing
+Chinese: https://drive.google.com/file/d/187BMYUsSWSiipB7edMjxdmXAW_jrbI_7/view
+Russian: https://drive.google.com/file/d/1hwvllh0-Ek2cTiypRExTBDJHxR28aQMG/view?usp=sharing
