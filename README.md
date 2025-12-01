@@ -16,3 +16,5 @@ model-for-speech-to-text: https://drive.google.com/file/d/1bS1xFec74dDBkODjOl-v-
 
 app-speach-to-text: https://drive.google.com/file/d/1dHiOn_iKONZewF9ONXzrnpozdgz7lh5w/view?usp=sharing
 
+
+e-commerce-sites: https://drive.google.com/file/d/12eG9K-kt8HAo2qhmueDzqQnTXmPZyCe4/view?usp=sharing
