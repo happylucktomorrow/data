@@ -6,4 +6,4 @@ app-speach-to-text: https://drive.google.com/file/d/1dHiOn_iKONZewF9ONXzrnpozdgz
 
 e-commerce-sites: https://drive.google.com/file/d/16WxR1dmTPu26zDAMuHEux9R37gYkUQ1T/view?usp=drive_link
 
-essential-math: https://drive.google.com/file/d/1PbWKqb4_loN-ef5tt8n8rdvxhtGVj7II/view?usp=sharing
+e-commerce-site-list: [https://drive.google.com/file/d/1PbWKqb4_loN-ef5tt8n8rdvxhtGVj7II/view?usp=sharing](https://github.com/happylucktomorrow/scraper/blob/main/ecommerce_scraper/data/research/ecommerce_sites.csv)
