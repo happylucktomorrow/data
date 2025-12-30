@@ -4,6 +4,4 @@ model-for-speech-to-text: https://drive.google.com/file/d/1bS1xFec74dDBkODjOl-v-
 
 app-speach-to-text: https://drive.google.com/file/d/1dHiOn_iKONZewF9ONXzrnpozdgz7lh5w/view?usp=sharing
 
-e-commerce-sites: https://drive.google.com/file/d/16WxR1dmTPu26zDAMuHEux9R37gYkUQ1T/view?usp=drive_link
-
-e-commerce-site-list: https://github.com/happylucktomorrow/scraper/blob/main/ecommerce_scraper/data/research/ecommerce_sites.csv
+python-packages: https://drive.google.com/file/d/1swvq8kTbxqJP-59aNDhapUAN46f2FcVG/view?usp=drive_link
