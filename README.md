@@ -2,6 +2,8 @@ python package: https://drive.google.com/file/d/12sWypxpI8y0VtAWDh-sOkf96RjRsTod
 
 pdf: https://drive.google.com/file/d/1mO5BUYcN9zg3wa2UHVuLc3MhaoTWHNl-/view?usp=sharing
 
+pdf2: https://drive.google.com/file/d/1nz1TaQzOtCnxSVl587ViJK_E9poQBG_f/view?usp=sharing
+
 e-commerce githubs:
 
 https://github.com/Galaxies-dev/react-native-ecommerce?utm_source=chatgpt.com
