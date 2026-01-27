@@ -1,9 +1,5 @@
 python package: https://drive.google.com/file/d/12sWypxpI8y0VtAWDh-sOkf96RjRsTodP/view?usp=sharing
 
-pdf: https://drive.google.com/file/d/1mO5BUYcN9zg3wa2UHVuLc3MhaoTWHNl-/view?usp=sharing
-
-pdf2: https://drive.google.com/file/d/1nz1TaQzOtCnxSVl587ViJK_E9poQBG_f/view?usp=sharing
-
 e-commerce githubs:
 
 https://github.com/Galaxies-dev/react-native-ecommerce?utm_source=chatgpt.com
@@ -15,3 +11,11 @@ https://github.com/HarmanPreet-Singh-XYT/ECommerce-React-Native?utm_source=chatg
 https://github.com/enatega/shopping-cart-ecommerce?utm_source=chatgpt.com
 
 https://github.com/eramudeep/react-native-ecommerce?utm_source=chatgpt.com
+
+game:
+
+https://www.roblox.com/games/130792705834010/Goofy-Gunners
+
+https://www.roblox.com/games/109983668079237/Steal-a-Brainrot
+
+https://github.com/dwmk/RobloxGames
