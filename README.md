@@ -18,4 +18,6 @@ https://www.roblox.com/games/130792705834010/Goofy-Gunners
 
 https://www.roblox.com/games/109983668079237/Steal-a-Brainrot
 
+https://www.roblox.com/games/112979325/Make-Your-Own-Wreck-It-Ralph-Story#!/game-instances
+
 https://github.com/dwmk/RobloxGames
