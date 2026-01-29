@@ -1,15 +1,1 @@
-python package: https://drive.google.com/file/d/12sWypxpI8y0VtAWDh-sOkf96RjRsTodP/view?usp=sharing
-
-e-commerce githubs:
-
-https://github.com/Galaxies-dev/react-native-ecommerce?utm_source=chatgpt.com
-
-https://github.com/jigneshgit935/Ecommerce-Application-React-Native?utm_source=chatgpt.com
-
-https://github.com/HarmanPreet-Singh-XYT/ECommerce-React-Native?utm_source=chatgpt.com
-
-https://github.com/enatega/shopping-cart-ecommerce?utm_source=chatgpt.com
-
-https://github.com/eramudeep/react-native-ecommerce?utm_source=chatgpt.com
-
-game: https://drive.google.com/file/d/1q7GlZpkNHsKVo56KuVVZvvP0zPM1KtcB/view?usp=sharing
+https://drive.google.com/file/d/1VKut7VQPG4-o9cHNRR6yTcbbcerf7cXu/view?usp=drive_link
