@@ -1,7 +1,3 @@
-https://drive.google.com/file/d/1VKut7VQPG4-o9cHNRR6yTcbbcerf7cXu/view?usp=drive_link
+https://drive.google.com/file/d/1V_5P1y6ycCYiaQkJb9RsLsJRvAofhcQU/view?usp=sharing
 
-https://drive.google.com/file/d/1PNstazFpVJXe1DRZI2F1y7HCdOTwj7Xe/view?usp=drive_link
-
-https://play.google.com/store/apps/details?id=com.mojang.minecraftpe
-
-https://www.minecraft.net/en-us/download
+https://drive.google.com/file/d/1eHBZ6H3Du1CkM6XyHMN_KhtAH2CmmsiI/view?usp=sharing
