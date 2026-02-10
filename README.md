@@ -21,6 +21,10 @@ minecraft: https://github.com/topics/minecraft-client
 https://github.com/topics/pvp-client
 
 
+https://github.com/PojavLauncherTeam/PojavLauncher
+
+https://github.com/Bixilon/Minosoft
+
 gcc-all-packages: https://drive.google.com/file/d/1atySgRRNmMDZzWp8lus025eB1dnD15yu/view?usp=sharing
 
 cuda-12.1: https://drive.google.com/file/d/1nT7YPiUqUGZSqwjzo8NQDbAUyaT58DV3/view?usp=sharing
