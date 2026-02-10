@@ -23,4 +23,6 @@ https://github.com/topics/pvp-client
 
 gcc-all-packages: https://drive.google.com/file/d/1atySgRRNmMDZzWp8lus025eB1dnD15yu/view?usp=sharing
 
+cuda-12.1: https://drive.google.com/file/d/1nT7YPiUqUGZSqwjzo8NQDbAUyaT58DV3/view?usp=sharing
+
 my-code: https://drive.google.com/file/d/1jXOr31pv6mLgu_KKZEpaysj7vcFMPDy8/view?usp=sharing
