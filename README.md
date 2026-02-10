@@ -21,7 +21,6 @@ minecraft: https://github.com/topics/minecraft-client
 https://github.com/topics/pvp-client
 
 
-gcc: 
-https://drive.google.com/file/d/1l21Rz-mxirNUgK0M9IJM41d66AW6wC12/view?usp=sharing
+gcc-all-packages: https://drive.google.com/file/d/1atySgRRNmMDZzWp8lus025eB1dnD15yu/view?usp=sharing
 
 my-code: https://drive.google.com/file/d/1jXOr31pv6mLgu_KKZEpaysj7vcFMPDy8/view?usp=sharing
