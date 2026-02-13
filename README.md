@@ -21,4 +21,8 @@ https://github.com/PojavLauncherTeam/PojavLauncher
 
 https://github.com/Bixilon/Minosoft
 
-commands: https://drive.google.com/drive/folders/14Xy9s4OgMHyEb3wSvZTZFvhs3youUTaE?usp=sharing
+python-packages: https://drive.google.com/file/d/1Q6kDqZFVLh4VeV2QNrZeVBLNhd4tauSp/view?usp=sharing
+
+torch: https://drive.google.com/file/d/1A4RZ7LFM3T2z9mEjevpqeg8PyBCxenO2/view?usp=sharing
+
+nvidia_xxx: https://drive.google.com/file/d/1vg4bz_MB9tlYuJ-RpB5UgWv1kt7WRiZ-/view?usp=sharing
