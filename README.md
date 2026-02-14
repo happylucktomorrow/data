@@ -23,6 +23,8 @@ https://github.com/Bixilon/Minosoft
 
 python-packages: https://drive.google.com/file/d/1Q6kDqZFVLh4VeV2QNrZeVBLNhd4tauSp/view?usp=sharing
 
+my-model: https://drive.google.com/file/d/1l0noqmfJBu_vma8fYIhWI5NUs6rzbVRW/view?usp=sharing
+
 torch: https://drive.google.com/file/d/1A4RZ7LFM3T2z9mEjevpqeg8PyBCxenO2/view?usp=sharing
 
 nvidia_xxx: https://drive.google.com/file/d/1vg4bz_MB9tlYuJ-RpB5UgWv1kt7WRiZ-/view?usp=sharing
