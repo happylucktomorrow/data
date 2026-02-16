@@ -29,6 +29,6 @@ torch: https://drive.google.com/file/d/1A4RZ7LFM3T2z9mEjevpqeg8PyBCxenO2/view?us
 
 nvidia_xxx: https://drive.google.com/file/d/1vg4bz_MB9tlYuJ-RpB5UgWv1kt7WRiZ-/view?usp=sharing
 
-my-model: https://drive.google.com/file/d/1l0noqmfJBu_vma8fYIhWI5NUs6rzbVRW/view?usp=sharing
+my-model: https://drive.google.com/file/d/1ka82M8cCPDIgoWmmH7bqnT8Dd8z4Rqcp/view?usp=sharing
 
 add-packages: https://drive.google.com/drive/folders/1m1cb5a2ridcBSVlXxkP62LtnQPKUIVtF?usp=sharing
