@@ -24,3 +24,5 @@ https://github.com/Bixilon/Minosoft
 -----
 
 python-packages: https://drive.google.com/file/d/1NjIZWAwQc8qmY_DnuGxrvyK08QGUmMwZ/view?usp=sharing
+
+basic-sr: https://drive.google.com/file/d/1jBf4Yz81QLrnRjFKTVEGX0vhtkthSsui/view?usp=drive_link
