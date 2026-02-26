@@ -22,6 +22,5 @@ https://github.com/PojavLauncherTeam/PojavLauncher
 https://github.com/Bixilon/Minosoft
 
 -----
-basic-sr: https://drive.google.com/file/d/1jBf4Yz81QLrnRjFKTVEGX0vhtkthSsui/view?usp=drive_link
 
-gradio: https://drive.google.com/file/d/1ZOhYzNbHoICas27ort15HClXS0ZXjj1M/view?usp=sharing
+gradio_client: https://drive.google.com/drive/folders/12abNYjCe8Cz4h1x9rJUsr5-0ZX_Xah38?usp=drive_link
