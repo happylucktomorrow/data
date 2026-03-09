@@ -13,3 +13,5 @@ glowstone: https://drive.google.com/drive/folders/10f7l4f-5bYNHowZJFuOOUjKRnCLU3
 pojavlauncher: https://drive.google.com/drive/folders/1l3sugc_y_Rv5dMXLd2OBx3WiylnmdTcH?usp=sharing
 
 fabric: https://drive.google.com/drive/folders/1DyM9B-fN7P5T7XI5mp8wfVD3mZjE75ZB?usp=sharing
+
+paperMC: https://drive.google.com/drive/folders/13waeZBzA-vtMnxJR_K-c5WeWncV4vr81?usp=sharing
