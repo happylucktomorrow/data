@@ -6,6 +6,8 @@ tabview: https://drive.google.com/file/d/1R4dnSoQcqZ715-KlFqxNhRmfIhF9I1Yd/view?
 
 https://www.kaggle.com/models/markomiladinovic876/stablediffusion-3-5
 
-book: https://drive.google.com/file/d/1dnsba5l50SB6JRdLTwNed2p46BzXTukE/view?usp=sharing
-
 glowstone: https://drive.google.com/drive/folders/10f7l4f-5bYNHowZJFuOOUjKRnCLU32sE?usp=sharing
+
+---
+
+pojavlauncher: https://drive.google.com/drive/folders/1l3sugc_y_Rv5dMXLd2OBx3WiylnmdTcH?usp=sharing
