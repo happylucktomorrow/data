@@ -18,8 +18,4 @@ paper-plugins: https://drive.google.com/drive/folders/1D9bqvKhxo8skR4Dd4R9nsPEGb
 
 ---
 
-PojavLauncher: https://drive.google.com/drive/folders/1l3sugc_y_Rv5dMXLd2OBx3WiylnmdTcH?usp=drive_link
-
-Paper-Plugins: https://drive.google.com/drive/folders/1D9bqvKhxo8skR4Dd4R9nsPEGbKvFrJq3?usp=drive_link
-
-Paper-Server: https://drive.google.com/drive/folders/13waeZBzA-vtMnxJR_K-c5WeWncV4vr81?usp=drive_link
+Paper-Server-NEW: https://drive.google.com/file/d/16qR80CXmi98vQ4T3Rrg3GxcAmZE8Jt6B/view?usp=sharing
