@@ -23,3 +23,7 @@ tensorflow lite: https://drive.google.com/file/d/1R4GCtzu-mfMdAhYMIFqjlZMpA3J6oN
 Client: https://www.kaggle.com/models/markomiladinovic876/amethyst
 
 pdf2: https://drive.google.com/file/d/1zVhdO5Ugdf6W5hqD-m9S4CB8K0AhGQFo/view?usp=sharing
+
+server-gradle: https://drive.google.com/file/d/1rQu3UO5q2TlM-ej0dYvWFdmY0uwf7DLe/view?usp=sharing
+
+node_modules: https://drive.google.com/file/d/1Be4gfu6O4rr-c7Y8yzldNzHyJTVl3mML/view?usp=sharing
