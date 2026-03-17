@@ -21,3 +21,5 @@ gcc: https://drive.google.com/file/d/1gdzv8uVRHL21XqGtehTlOzvb-_-0Uzb7/view?usp=
 tensorflow lite: https://drive.google.com/file/d/1R4GCtzu-mfMdAhYMIFqjlZMpA3J6oN1U/view?usp=drive_link
 
 Client: https://www.kaggle.com/models/markomiladinovic876/amethyst
+
+pdf2: https://drive.google.com/file/d/1zVhdO5Ugdf6W5hqD-m9S4CB8K0AhGQFo/view?usp=sharing
